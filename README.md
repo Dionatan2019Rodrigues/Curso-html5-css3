@@ -1,7 +1,6 @@
 # Curso-html5-css3
 
 Curso de html5 e css3 desenvolvido pelo professor Gustavo Guanabara do Cursoemvideo.
-<a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3" target="_blank" rel="external">Veja aqui os Desafios realizados</a>
 
 ```
 Desenvolvido em  02/2023.
