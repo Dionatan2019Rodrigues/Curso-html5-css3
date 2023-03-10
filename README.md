@@ -18,8 +18,6 @@ Desenvolvido em  02/2023.
     <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio09" target="_blank" rel="external">Desafio 09</a>
 </p>
 <p>
-    <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio10" target="_blank" rel="external">Projeto Android</a> <span>-</span>
-    <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio11" target="_blank" rel="external">Desafio 11</a> <span>-</span>
-    <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio12" target="_blank" rel="external">Projeto Cordel</a>
+    <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio11" target="_blank" rel="external">Desafio 11</a>
 </p>
 
