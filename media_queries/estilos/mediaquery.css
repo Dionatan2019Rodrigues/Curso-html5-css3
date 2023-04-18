@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/*Todas demais midias*/
+
+@media print {
+    *{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    main {
+        border: solid 1px black;
+        border-radius: 10px;
+    }
+    main h1{
+        color: black;
+        text-shadow: 0px 0px 0px black;
+    }
+    img#phone{ display: none;}
+    img#print{ display: block;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    img#phone{ display: none;}
+    img#tablet{ display: block;}
+    body{
+        background-image: url(../imagens/back-tablet.jpg);
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    img#phone{ display: none;}
+    img#pc{ display: block;}
+    body{
+        background-image: url(../imagens/back-pc.jpg);
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    img#phone{ display: none;}
+    img#tv{ display: block;}
+    body{
+        background-image: url(../imagens/back-tv.jpg);
+    }
+}
