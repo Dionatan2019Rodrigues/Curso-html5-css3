@@ -50,15 +50,14 @@ body{
     background-color: lightgray;
 }
 main{
-    margin: 10px;
-}
-article{
+    margin: auto;
     width: 90vw;
     background-color: rgb(160, 158, 158);
     border-radius: 10px;
     padding: 10px;
     margin: auto;
 }
+
 article p{
     text-align: justify;
     text-indent: 20px;
