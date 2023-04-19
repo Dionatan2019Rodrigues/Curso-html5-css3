@@ -17,6 +17,22 @@ h1 {
     text-align: center;
     padding: 10px;
 }
+i#burguer{
+    background-color: rgb(48, 47, 47);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+i#burguer:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+menu{
+    display: none;
+}
 menu ul li a{
     color: white;
     text-decoration: none;
@@ -28,13 +44,17 @@ menu ul li a{
 }
 menu ul li a:hover{
     background-color: grey;
+    cursor: default;
+}
+body{
+    background-color: lightgray;
 }
 main{
     margin: 10px;
 }
 article{
     width: 90vw;
-    background-color: rgb(204, 202, 202);
+    background-color: rgb(160, 158, 158);
     border-radius: 10px;
     padding: 10px;
     margin: auto;
