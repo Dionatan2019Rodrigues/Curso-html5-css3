@@ -8,7 +8,7 @@
 </p>
 
 ### Desafios
-Abaixo enontram-se os link para vizualização de cada desafio resolvido durante o curso.
+Abaixo enontram-se os link para visualização de cada desafio resolvido durante o curso.
 
 - <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio01" target="_blank" rel="external">Desafio 01</a>
 - <a href="https://dionatan2019rodrigues.github.io/Curso-html5-css3/desafio02" target="_blank" rel="external">Desafio 02</a>
